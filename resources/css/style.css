@@ -1,0 +1,23 @@
+body {font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {font-size: 50px;	
+}
+
+h2 {font-size: 42px;	
+}
+
+p {font-size: 22px; color: #888888;	
+}
+
+p a {font-size: 16px;
+	color: Aquamarine;
+	text-decoration: underline;
+}
+
+#footer {
+    text-align: right;
+} 
